@@ -1,0 +1,10 @@
+E:\Prj\2024\Prj\C#\任务状态\bin\Debug\任务状态.exe.config
+E:\Prj\2024\Prj\C#\任务状态\bin\Debug\任务状态.exe
+E:\Prj\2024\Prj\C#\任务状态\bin\Debug\任务状态.pdb
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.csproj.AssemblyReference.cache
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.Form1.resources
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.Properties.Resources.resources
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.csproj.GenerateResource.cache
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.csproj.CoreCompileInputs.cache
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.exe
+E:\Prj\2024\Prj\C#\任务状态\obj\Debug\任务状态.pdb
